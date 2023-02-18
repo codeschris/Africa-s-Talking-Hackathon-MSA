@@ -12,3 +12,5 @@ We created a ussd code `(*384*57162#)` to enable university students to register
 ## Vision:
 
 Our vision is to see this project expand and be used by all universities in the country. We also plan to expand some of its features such as including a e-fees statement.
+
+_This was a hackathon idea. I'll just leave it here for future reference._
